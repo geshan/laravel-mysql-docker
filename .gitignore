@@ -3,6 +3,4 @@
 Homestead.yaml
 Homestead.json
 .env
-docker-compose.yml
-docker
-docker/*
+docker/db
